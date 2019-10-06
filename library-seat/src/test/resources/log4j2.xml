@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<Configuration status="warn" monitorInterval="300">
+	<properties>
+		<property name="LOG_HOME">D:/logs</property>
+		<property name="FILE_NAME">mylog</property>
+	</properties>
+	<!-- 输出的目的地 -->
+    <Appenders>
+        <Console name="Con" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+        </Console>
+
+        <File name="MyFile__" fileName="D:/app.log">
+			<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		</File>
+
+		<RollingRandomAccessFile name="MyFile"
+			fileName="D:/abc.log"
+			filePattern="D:/$${date:yyyy-MM}/abc-%d{yyyy-MM-dd HH-mm}-%i.log">
+			<PatternLayout
+				pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+			<Policies>
+				<TimeBasedTriggeringPolicy interval="1" />
+				<SizeBasedTriggeringPolicy size="10 KB" />
+			</Policies>
+			<DefaultRolloverStrategy max="20" />
+		</RollingRandomAccessFile>
+    </Appenders>
+    
+    
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="Con" />
+        </Root>
+    </Loggers>
+</Configuration>

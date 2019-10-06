@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<beans
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:context="http://www.springframework.org/schema/context"
+        xmlns:tx="http://www.springframework.org/schema/tx"
+        xmlns="http://www.springframework.org/schema/beans" xmlns:aop="http://www.springframework.org/schema/aop"
+        xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/tx
+        http://www.springframework.org/schema/tx/spring-tx.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd
+         http://www.springframework.org/schema/tool
+        http://www.springframework.org/schema/tool/spring-tool.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+    <!--配置mybatis的事务管理-->
+    <bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <constructor-arg ref="dataSource" />
+    </bean>
+    <!--<tx:jta-transaction-manager />-->
+    <!--<tx:annotation-driven transaction-manager="transactionManager" proxy-target-class="true"  />-->
+    <!--切面中实现的功能，通知advice-->
+    <!--<tx:advice id="txAdivce" transaction-manager="transactionManager">-->
+        <!--<tx:attributes>-->
+            <!--<tx:method name="add" propagation="REQUIRED"/>-->
+        <!--</tx:attributes>-->
+    <!--</tx:advice>-->
+    <!--<aop:config>-->
+        <!--<aop:pointcut id="myPoint"-->
+                      <!--expression="execution(* com.wangyang.ssm.service.*.*(..))"/>-->
+        <!--<aop:advisor advice-ref="txAdivce" pointcut-ref="myPoint"/>-->
+    <!--</aop:config>-->
+</beans>

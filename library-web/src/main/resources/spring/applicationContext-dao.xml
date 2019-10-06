@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:mybatis="http://mybatis.org/schema/mybatis-spring"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd
+        http://mybatis.org/schema/mybatis-spring
+        http://mybatis.org/schema/mybatis-spring.xsd
+        http://www.springframework.org/schema/aop
+        http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+    <!--1、配置数据源-->
+    <context:property-placeholder location="classpath:conf/jdbc.properties"/>
+    <bean id="dataSource" class="org.apache.commons.dbcp2.BasicDataSource" destroy-method="close">
+        <property name="driverClassName" value="${jdbc.driverClassName}"/>
+        <property name="url" value="${jdbc.url}"/>
+        <property name="username" value="${jdbc.username}"/>
+        <property name="password" value="${jdbc.password}"/>
+    </bean>
+    <!--2、配置mybatis的sqlSessionfactory-->
+    <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+        <!--数据库连接池-->
+        <property name="dataSource" ref="dataSource" />
+        <!--mybatis的配置文件-->
+        <property name="configLocation" value="classpath:mybatis/SqlMapConfig.xml"/>
+    </bean>
+    <bean name="scheduler" class="org.springframework.scheduling.quartz.SchedulerFactoryBean">
+        <property name="configLocation" value="classpath:quartz.properties"/>
+        <property name="dataSource" ref="dataSource"/>
+        <property name="overwriteExistingJobs" value="true" />
+        <property name="autoStartup" value="true" />
+     </bean>
+
+
+    <!--发现映射器-->
+    <mybatis:scan base-package="com.syyb.user.mapper" />
+    <mybatis:scan base-package="com.syyb.seat.mapper" />
+    <mybatis:scan base-package="com.syyb.quartz.mapper" />
+</beans>

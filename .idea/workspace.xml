@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Gradle : com.wangyang.study : framework-study-1.0-SNAPSHOT.war (exploded)" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f46dba8a-d44e-4430-ac63-2479dc4ca3f0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/library-web/target/" />
+    <ignored path="$PROJECT_DIR$/library-parent/target/" />
+    <ignored path="$PROJECT_DIR$/library-user/target/" />
+    <ignored path="$PROJECT_DIR$/mybatis-generation/target/" />
+    <ignored path="$PROJECT_DIR$/yiban-interface/target/" />
+    <ignored path="$PROJECT_DIR$/qr-code/target/" />
+    <ignored path="$PROJECT_DIR$/library-seat/target/" />
+    <ignored path="$PROJECT_DIR$/library-common/target/" />
+    <ignored path="$PROJECT_DIR$/library-quartz/target/" />
+    <ignored path="$PROJECT_DIR$/gradle-01/.gradle/" />
+    <ignored path="$PROJECT_DIR$/gradle-01/build/" />
+    <ignored path="$PROJECT_DIR$/gradle-01/out/" />
+    <ignored path="$PROJECT_DIR$/ss/target/" />
+    <ignored path="$PROJECT_DIR$/new_framework/.gradle/" />
+    <ignored path="$PROJECT_DIR$/new_framework/build/" />
+    <ignored path="$PROJECT_DIR$/new_framework/out/" />
+    <ignored path="$PROJECT_DIR$/framework-study/.gradle/" />
+    <ignored path="$PROJECT_DIR$/framework-study/build/" />
+    <ignored path="$PROJECT_DIR$/framework-study/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/framework-study">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/gradle-01">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/new_framework">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/framework-study">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="framework-study" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="framework-study" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="framework-study" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="framework-study" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="help" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="library">
+      <favorite_root url="file://$PROJECT_DIR$/library-web/src/main/webapp/WEB-INF/view/user" module="library-web" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/library-web/src/main/webapp/WEB-INF/view/user/index.jsp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/library-web/src/main/webapp/WEB-INF/view/user/seatError.jsp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/library-web/src/main/webapp/WEB-INF/view/user/addBookInput.jsp" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>AESDecoder</find>
+      <find>updateByExampleSelective</find>
+      <find>map</find>
+      <find>0</find>
+      <find>system</find>
+      <find>l-btn-icon-left</find>
+      <find>img</find>
+      <find>用户信息管理</find>
+      <find>icons</find>
+      <find>icon-</find>
+      <find>icon-edit</find>
+      <find>update</find>
+      <find>insert</find>
+      <find>select</find>
+      <find>selectBy</find>
+      <find>BufferedImageLuminanceSource</find>
+      <find>Base_Column_List</find>
+      <find>countByExample</find>
+      <find>qzDS</find>
+      <find>getClass</find>
+      <find>mybatis</find>
+      <find>log</find>
+      <find>artifactId</find>
+      <find>list</find>
+      <find>element-icons.ttf</find>
+      <find>GeneralReturn</find>
+      <find>generalReturn</find>
+      <find>messageMap</find>
+      <find>getStringObjectMap</find>
+      <find>/user/index</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>Result</replace>
+      <replace>result</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/library-web/src/main/webapp/WEB-INF/view/admin/common/main-sidebar.jsp" />
+        <option value="$PROJECT_DIR$/library-user/pom.xml" />
+        <option value="$PROJECT_DIR$/library-web/src/main/resources/quartz.properties" />
+        <option value="$PROJECT_DIR$/library-web/src/main/resources/spring/applicationContext-dao.xml" />
+        <option value="$PROJECT_DIR$/library-quartz/src/main/java/com/syyb/quartz/service/ScheduleService.java" />
+        <option value="$PROJECT_DIR$/library-web/pom.xml" />
+        <option value="$PROJECT_DIR$/library-quartz/src/test/java/tes/Tes01.java" />
+        <option value="$PROJECT_DIR$/library-quartz/src/test/java/tes/HelloSchesule.java" />
+        <option value="$PROJECT_DIR$/library-quartz/src/test/resources/applicationContext-dao.xml" />
+        <option value="$PROJECT_DIR$/library-user/src/test/resources/SqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/library-quartz/src/test/resources/SqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/library-web/src/main/java/com/syyb/web/quartz/controller/JobController.java" />
+        <option value="$PROJECT_DIR$/library-quartz/src/main/java/com/syyb/quartz/service/impl/ScheduleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/library-quartz/src/test/java/tes/HelloSchedule.java" />
+        <option value="$PROJECT_DIR$/library-quartz/src/test/java/tes/HelloJob.java" />
+        <option value="$PROJECT_DIR$/library-quartz/src/test/java/tes/ScheduleTes.java" />
+        <option value="$PROJECT_DIR$/library-quartz/pom.xml" />
+        <option value="$PROJECT_DIR$/library-quartz/src/test/resources/quartz.properties" />
+        <option value="$PROJECT_DIR$/library-web/src/main/webapp/WEB-INF/view/admin/user/userList_temp.jsp" />
+        <option value="$PROJECT_DIR$/library-quartz/src/main/java/com/syyb/quartz/service/impl/JobAndTriggerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/library-web/src/main/java/com/syyb/web/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/library-web/src/main/webapp/WEB-INF/view/admin/user/userList.jsp" />
+        <option value="$PROJECT_DIR$/library-web/src/main/webapp/WEB-INF/view/admin/quartz/JobManager.jsp" />
+        <option value="$PROJECT_DIR$/library-web/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/library-common/src/main/java/com/syyb/common/util/Result.java" />
+        <option value="$PROJECT_DIR$/library-web/src/main/java/com/syyb/web/controller/user/UserControl.java" />
+        <option value="$PROJECT_DIR$/new_framework/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/new_framework/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/new_framework/build.gradle" />
+        <option value="$PROJECT_DIR$/framework-study/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/framework-study/src/main/java/com/wangyang/jwt/JwtUtil.java" />
+        <option value="$PROJECT_DIR$/framework-study/src/main/java/com/wangyang/jwt/JwtTokenUtils.java" />
+        <option value="$PROJECT_DIR$/library-common/src/main/java/com/syyb/common/util/ResultEnum.java" />
+        <option value="$PROJECT_DIR$/library-common/src/test/java/com/wangyang/test/TesEnum.java" />
+        <option value="$PROJECT_DIR$/library-common/src/main/java/com/syyb/common/util/LibraryResult.java" />
+        <option value="$PROJECT_DIR$/library-common/src/main/java/com/syyb/common/util/MyResult.java" />
+        <option value="$PROJECT_DIR$/yiban-interface/src/main/java/cn/yiban/open/AppUtil.java" />
+        <option value="$PROJECT_DIR$/library-web/src/main/webapp/WEB-INF/view/index.jsp" />
+        <option value="$PROJECT_DIR$/yiban-interface/src/main/java/cn/yiban/open/AppApi.java" />
+        <option value="$PROJECT_DIR$/library-web/src/main/java/com/syyb/web/controller/SeatController.java" />
+        <option value="$PROJECT_DIR$/library-web/src/main/java/com/syyb/web/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/library-web/src/main/webapp/WEB-INF/view/admin/seat/seatList.jsp" />
+        <option value="$PROJECT_DIR$/library-web/src/main/webapp/WEB-INF/view/user/downSeatInput.jsp" />
+        <option value="$PROJECT_DIR$/framework-study/src/test/java/com/wangyang/jedis/TestJedis.java" />
+        <option value="$PROJECT_DIR$/framework-study/src/test/java/com/wangyang/jwt/TestJwtUtil.java" />
+        <option value="$PROJECT_DIR$/framework-study/src/test/java/com/wangyang/springjedis.java" />
+        <option value="$PROJECT_DIR$/framework-study/src/main/resources/application.xml" />
+        <option value="$PROJECT_DIR$/framework-study/build.gradle" />
+        <option value="$PROJECT_DIR$/.gitinore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/yiban-interface/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/tool/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\tool\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="library-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="library-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="library-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="jetty" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561463554161" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.16113281" />
+    <property name="project.structure.side.proportion" value="0.303207" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaProject\library_project\library\yiban-interface" />
+      <recent name="E:\JavaProject\library_project\library\library-web\src\main\webapp\resources" />
+      <recent name="E:\JavaProject\library_project\library\library-web\src\main\webapp\WEB-INF\view" />
+      <recent name="E:\JavaProject\library_project\library\library-quartz\src\main\web" />
+      <recent name="E:\JavaProject\library_project\library\library-quartz\src\main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaProject\library_project\library\library-web\src\main\webapp\resources\css" />
+      <recent name="E:\JavaProject\library_project\library\library-web\src\main\webapp\WEB-INF\view\admin\user" />
+      <recent name="E:\JavaProject\library_project\library\library-quartz\src\test\resources" />
+      <recent name="E:\JavaProject\library_project\library\library-web\src\main\webapp\resources\js" />
+      <recent name="E:\JavaProject\library_project\library\library-web\src\main\java\com\syyb\web\conf" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.syyb.web.interceptor" />
+      <recent name="com.syyb.common.util" />
+      <recent name="com.syyb.seat.intercept" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.syyb.quartz.service.impl" />
+      <recent name="com.syyb.seat.service.impl" />
+      <recent name="com.syyb.library.service.impl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.springjedis.test02">
+    <configuration name="framework-study [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/framework-study" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="framework-study [dependencyInsight]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/framework-study" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencyInsight" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="framework-study [help]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/framework-study" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="help" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="springjedis.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.wangyang.study.framework-study.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangyang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wangyang" />
+      <option name="MAIN_CLASS_NAME" value="com.wangyang.springjedis" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="springjedis.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.wangyang.study.framework-study.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangyang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wangyang" />
+      <option name="MAIN_CLASS_NAME" value="com.wangyang.springjedis" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.10" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.10" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Gradle___com_wangyang_study___framework_study_1_0_SNAPSHOT_war__exploded_/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : com.wangyang.study : framework-study-1.0-SNAPSHOT.war (exploded)">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Gradle___com_wangyang_study___framework_study_1_0_SNAPSHOT_war__exploded_" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_library" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59018" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.framework-study [dependencyInsight]" />
+      <item itemvalue="Gradle.framework-study [help]" />
+      <item itemvalue="Gradle.framework-study [dependencies]" />
+      <item itemvalue="JUnit.springjedis.add" />
+      <item itemvalue="JUnit.springjedis.test02" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.10" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.springjedis.test02" />
+        <item itemvalue="JUnit.springjedis.add" />
+        <item itemvalue="Gradle.framework-study [dependencies]" />
+        <item itemvalue="Gradle.framework-study [help]" />
+        <item itemvalue="Gradle.framework-study [dependencyInsight]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f46dba8a-d44e-4430-ac63-2479dc4ca3f0" name="Default Changelist" comment="" />
+      <created>1557916955779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557916955779</updated>
+      <workItem from="1557916961863" duration="11291000" />
+      <workItem from="1557980152710" duration="8606000" />
+      <workItem from="1558167875633" duration="9680000" />
+      <workItem from="1558397964467" duration="21800000" />
+      <workItem from="1558609686874" duration="5423000" />
+      <workItem from="1558943731185" duration="176000" />
+      <workItem from="1558943956678" duration="6632000" />
+      <workItem from="1558951528172" duration="128000" />
+      <workItem from="1558951758042" duration="22390000" />
+      <workItem from="1559179188739" duration="46347000" />
+      <workItem from="1559525842310" duration="72834000" />
+      <workItem from="1559894961105" duration="41025000" />
+      <workItem from="1560241297517" duration="18514000" />
+      <workItem from="1561020012675" duration="4020000" />
+      <workItem from="1561263159405" duration="3491000" />
+      <workItem from="1561266826300" duration="213000" />
+      <workItem from="1561267081535" duration="216000" />
+      <workItem from="1561267339512" duration="13188000" />
+      <workItem from="1561343920855" duration="5362000" />
+      <workItem from="1561431928103" duration="3434000" />
+      <workItem from="1561534152451" duration="915000" />
+      <workItem from="1561617477177" duration="587000" />
+      <workItem from="1561634954001" duration="214000" />
+      <workItem from="1561702236139" duration="1505000" />
+      <workItem from="1561710901383" duration="52000" />
+      <workItem from="1570345476283" duration="2546000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="springjedis_add - 2019.06.24 at 17h 05m 55s.xml">
+      <configuration name="springjedis.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="springjedis_add - 2019.06.24 at 17h 10m 23s.xml">
+      <configuration name="springjedis.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="springjedis_add - 2019.06.25 at 11h 25m 21s.xml">
+      <configuration name="springjedis.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="springjedis_add - 2019.06.25 at 16h 51m 36s.xml">
+      <configuration name="springjedis.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="springjedis_test02 - 2019.06.25 at 17h 04m 35s.xml">
+      <configuration name="springjedis.test02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="springjedis_test02 - 2019.06.25 at 17h 05m 52s.xml">
+      <configuration name="springjedis.test02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="springjedis_add - 2019.06.25 at 17h 06m 12s.xml">
+      <configuration name="springjedis.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="springjedis_add - 2019.06.25 at 17h 06m 36s.xml">
+      <configuration name="springjedis.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="springjedis_test02 - 2019.06.25 at 17h 06m 50s.xml">
+      <configuration name="springjedis.test02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="springjedis_test02 - 2019.06.25 at 17h 08m 08s.xml">
+      <configuration name="springjedis.test02" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="300589000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49590835" visible="true" weight="0.27685326" />
+      <window_info id="Structure" order="1" sideWeight="0.5037879" side_tool="true" weight="0.31013617" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5040917" side_tool="true" weight="0.28290468" />
+      <window_info id="Web" order="7" sideWeight="0.5040917" side_tool="true" weight="0.28290468" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.37806875" />
+      <window_info anchor="bottom" id="Thumbnails" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.4969743" weight="0.5770492" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.46317512" />
+      <window_info anchor="bottom" id="Terminal" order="6" visible="true" weight="0.12131148" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Spring" order="11" weight="0.35515547" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5030257" side_tool="true" weight="0.24713585" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Application Servers" order="16" weight="0.3289689" />
+      <window_info anchor="bottom" id="Build" order="17" weight="0.44517186" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.19969743" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="CDI" order="9" />
+      <window_info anchor="right" id="Gradle" order="10" weight="0.19742814" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49590835" visible="true" weight="0.19213313" />
+      <window_info id="Structure" order="1" sideWeight="0.5037879" side_tool="true" weight="0.31013617" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5040917" side_tool="true" weight="0.28290468" />
+      <window_info id="Web" order="7" sideWeight="0.5040917" side_tool="true" weight="0.28290468" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.65466446" />
+      <window_info anchor="bottom" id="Thumbnails" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" sideWeight="0.4969743" visible="true" weight="0.36006546" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.46317512" />
+      <window_info anchor="bottom" id="Java Enterprise" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Spring" order="10" weight="0.35515547" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.41898528" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5030257" side_tool="true" weight="0.27168575" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Build" order="16" weight="0.41243863" />
+      <window_info anchor="bottom" id="Application Servers" order="17" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.27987897" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="CDI" order="9" />
+      <window_info anchor="right" id="Gradle" order="10" weight="0.15960665" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/library-user/src/main/java/com/syyb/user/service/impl/UserServiceImpl.java</url>
+          <line>100</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="((RoutingStatementHandler)statementHandler).delegate" custom="org.apache.ibatis.executor.statement.RoutingStatementHandler" />
+        <watch expression="((BoundSql)((PreparedStatementHandler)((RoutingStatementHandler)statementHandler).delegate).boundSql).parameterObject" custom="org.apache.ibatis.executor.statement.RoutingStatementHandler,org.apache.ibatis.executor.statement.PreparedStatementHandler,org.apache.ibatis.mapping.BoundSql" />
+        <watch expression="((org.apache.ibatis.binding.MapperMethod.ParamMap)((BoundSql)((PreparedStatementHandler)((RoutingStatementHandler)statementHandler).delegate).boundSql).parameterObject).entrySet().toArray()[2]" custom="org.apache.ibatis.executor.statement.RoutingStatementHandler,org.apache.ibatis.executor.statement.PreparedStatementHandler,org.apache.ibatis.mapping.BoundSql,org.apache.ibatis.binding.MapperMethod.ParamMap" />
+        <watch expression="((BoundSql)((DefaultParameterHandler)((PreparedStatementHandler)((RoutingStatementHandler)statementHandler).delegate).parameterHandler).boundSql).parameterObject" custom="org.apache.ibatis.scripting.defaults.DefaultParameterHandler,org.apache.ibatis.executor.statement.RoutingStatementHandler,org.apache.ibatis.executor.statement.PreparedStatementHandler,org.apache.ibatis.mapping.BoundSql" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/library-web/src/main/webapp/WEB-INF/view/admin/user/userList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7155">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.2.1/quartz-2.2.1.jar!/org/quartz/core/QuartzScheduler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="523" column="20" selection-start-line="523" selection-start-column="20" selection-end-line="523" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-web/src/main/java/com/syyb/web/quartz/controller/JobController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="32" selection-start-line="32" selection-end-line="33" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-common/src/main/java/com/syyb/common/pojo/Pager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-web/src/main/webapp/WEB-INF/view/admin/quartz/JobManager.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="215" column="20" selection-start-line="215" selection-start-column="20" selection-end-line="215" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_framework/settings.gradle" />
+    <entry file="file://$PROJECT_DIR$/library-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="41" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/tool/gradle-5.2-rc-1/lib/gradle-core-api-5.2.jar!/org/gradle/plugin/use/PluginDependenciesSpec.class" />
+    <entry file="file://$PROJECT_DIR$/new_framework/src/main/webapp/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/new_framework/src/main/webapp/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/new_framework/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/library-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-study/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program File/JDK/java/src.zip!/com/sun/org/apache/xml/internal/security/algorithms/SignatureAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-study/src/main/java/com/wangyang/jwt/JwtUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-common/src/test/java/com/wangyang/test/TesEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-study/src/main/java/com/wangyang/jwt/JwtTokenUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-common/src/main/java/com/syyb/common/util/LibraryResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-common/src/main/java/com/syyb/common/util/ResultEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <folding>
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yiban-interface/src/main/java/cn/yiban/open/Authorize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="72" column="16" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-common/src/main/java/com/syyb/common/util/MyResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+          <folding>
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-web/src/main/webapp/WEB-INF/view/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yiban-interface/src/main/java/cn/yiban/open/AppApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yiban-interface/src/main/java/cn/yiban/open/AppUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-web/src/main/java/com/syyb/web/interceptor/AuthInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="29" column="75" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-web/src/main/java/com/syyb/web/controller/user/UserControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-web/src/main/java/com/syyb/web/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1230">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-web/src/main/java/com/syyb/web/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-web/src/main/java/com/syyb/web/controller/RoleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-web/src/main/java/com/syyb/web/controller/BookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-421">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-web/src/main/java/com/syyb/web/controller/SeatController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-web/src/main/java/com/syyb/web/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="133" column="68" selection-start-line="133" selection-start-column="68" selection-end-line="133" selection-end-column="68" />
+          <folding>
+            <element signature="method#loginInput#0;class#LoginController#0" />
+            <element signature="method#JsonToUser#0;class#LoginController#0" />
+            <element signature="method#loginOut#0;class#LoginController#0" />
+            <element signature="method#login#1;class#LoginController#0" />
+            <element signature="docComment;method#MobelLoginByYb#0;class#LoginController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-web/src/main/webapp/WEB-INF/view/admin/seat/bookList.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-web/src/main/webapp/WEB-INF/view/admin/seat/seatList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="81" column="57" selection-start-line="81" selection-start-column="57" selection-end-line="81" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-web/src/main/webapp/WEB-INF/view/user/downSeatInput.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-web/src/main/java/com/syyb/web/interceptor/AuthUserInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-study/src/test/java/com/wangyang/jwt/TestJwtUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/tool/gradle/respo/caches/modules-2/files-2.1/redis.clients/jedis/3.0.1/d5f5ddf37516bc343d4da14fd2dee0f10630d06/jedis-3.0.1-sources.jar!/redis/clients/jedis/Jedis.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.5.RELEASE/spring-data-redis-2.1.5.RELEASE.jar!/org/springframework/data/redis/connection/RedisStandaloneConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/tool/gradle/respo/caches/modules-2/files-2.1/org.springframework.data/spring-data-redis/2.1.8.RELEASE/932e21404936531040f5945d6f4187e4c861be9/spring-data-redis-2.1.8.RELEASE-sources.jar!/org/springframework/data/redis/connection/RedisStandaloneConfiguration.java" />
+    <entry file="jar://E:/tool/gradle/respo/caches/modules-2/files-2.1/org.springframework.data/spring-data-redis/2.1.8.RELEASE/932e21404936531040f5945d6f4187e4c861be9/spring-data-redis-2.1.8.RELEASE-sources.jar!/org/springframework/data/redis/connection/jedis/JedisConnectionFactory.java" />
+    <entry file="file://$PROJECT_DIR$/framework-study/src/test/java/com/wangyang/jedis/TestJedis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-study/src/test/java/com/wangyang/springjedis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+          <folding>
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#894#895#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-study/src/main/resources/application.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="150" selection-start-line="9" selection-start-column="150" selection-end-line="9" selection-end-column="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-study/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework-study/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2076">
+          <caret line="15" column="20" selection-start-line="4" selection-start-column="3" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitinore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yiban-interface/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>library-web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.303207" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.303207" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>test|com.wangyang.study.framework-study</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.303207" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.springframework:spring-aop:5.1.5.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.303207" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$/library-parent" />
+    <option value="install:install-file -Dfile= E:\YiBanTeach\YBApi_sdk_java_20150820\examples\demo\WEB-INF\lib\json-lib-2.4-jdk15.jar -DgroupId=com.wangyang.json -DartifactId=json -Dversion=1.0 -Dpackaging=jar" />
+    <option value="install:install-file -Dfile= .\json-lib-2.4-jdk15.jar -DgroupId=com.wangyang.json -DartifactId=json -Dversion=1.0 -Dpackaging=jar" />
+    <option value="Maven Goal" />
+  </component>
+</project>

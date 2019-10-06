@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : com.wangyang.study : framework-study-1.0-SNAPSHOT.war">
+    <output-path>$PROJECT_DIR$/framework-study/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$/framework-study" />
+    </properties>
+    <root id="archive" name="framework-study-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Gradle : com.wangyang.study : framework-study-1.0-SNAPSHOT.war (exploded)" />
+    </root>
+  </artifact>
+</component>

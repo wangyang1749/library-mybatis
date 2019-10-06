@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="library-common" />
+        <module name="library-quartz" />
+        <module name="library-seat" />
+        <module name="library-user" />
+        <module name="library-web" />
+        <module name="mybatis-generation" />
+        <module name="qr-code" />
+        <module name="yiban-interface" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.wangyang.gradle.gradle-01.main" target="1.8" />
+      <module name="com.wangyang.gradle.gradle-01.test" target="1.8" />
+      <module name="com.wangyang.study.framework-study.main" target="1.8" />
+      <module name="com.wangyang.study.framework-study.test" target="1.8" />
+      <module name="com.wangyang.study.new_framework.main" target="1.8" />
+      <module name="com.wangyang.study.new_framework.test" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="gs-serving-web-content" target="1.8" />
+      <module name="library-common" target="1.8" />
+      <module name="library-parent" target="1.8" />
+      <module name="library-quartz" target="1.8" />
+      <module name="library-seat" target="1.8" />
+      <module name="library-user" target="1.8" />
+      <module name="library-web" target="1.8" />
+      <module name="mybatis-generation" target="1.5" />
+      <module name="qr-code" target="1.8" />
+      <module name="ss" target="1.5" />
+      <module name="yiban-interface" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gs-serving-web-content" options="-parameters" />
+    </option>
+  </component>
+</project>

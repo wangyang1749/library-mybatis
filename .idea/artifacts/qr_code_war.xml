@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="qr-code:war">
+    <output-path>$PROJECT_DIR$/qr-code/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>qr-code</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="qr-code-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="qr-code:war exploded" />
+    </root>
+  </artifact>
+</component>

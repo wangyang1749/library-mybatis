@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.wangyang.study.framework-study.iml" filepath="$PROJECT_DIR$/.idea/modules/com.wangyang.study.framework-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.wangyang.study.framework-study.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.wangyang.study.framework-study.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.wangyang.study.framework-study.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.wangyang.study.framework-study.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library-common/library-common.iml" filepath="$PROJECT_DIR$/library-common/library-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library-parent/library-parent.iml" filepath="$PROJECT_DIR$/library-parent/library-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library-quartz/library-quartz.iml" filepath="$PROJECT_DIR$/library-quartz/library-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library-seat/library-seat.iml" filepath="$PROJECT_DIR$/library-seat/library-seat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library-user/library-user.iml" filepath="$PROJECT_DIR$/library-user/library-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library-web/library-web.iml" filepath="$PROJECT_DIR$/library-web/library-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-generation/mybatis-generation.iml" filepath="$PROJECT_DIR$/mybatis-generation/mybatis-generation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qr-code/qr-code.iml" filepath="$PROJECT_DIR$/qr-code/qr-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yiban-interface/yiban-interface.iml" filepath="$PROJECT_DIR$/yiban-interface/yiban-interface.iml" />
+    </modules>
+  </component>
+</project>

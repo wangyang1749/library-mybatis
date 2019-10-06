@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="gradle-01:test" external.linked.project.path="$MODULE_DIR$/../../gradle-01" external.root.project.path="$MODULE_DIR$/../../gradle-01" external.system.id="GRADLE" external.system.module.group="com.wangyang.gradle" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../gradle-01/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../gradle-01/src/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="com.wangyang.gradle.gradle-01.main" />
+</module>
